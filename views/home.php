@@ -1,0 +1,1 @@
+<?php echo \Libs\Helper::trans('welcome');
